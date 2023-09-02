@@ -29,7 +29,7 @@ async def register(username: Annotated[str, Form()], password: Annotated[str, Fo
 @app.post('/chat/')
 async def chat(text: Annotated[str, Form()]):
     base_url = "https://api.openai.com/v1/"
-    openai_token = "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"
+    openai_token = ""
     
     openai_header = {
         "Content-Type": "application/json",
