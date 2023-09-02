@@ -12,14 +12,14 @@ AfriCare is an innovative project in the medical field that harnesses generative
 - Seamless integration with the OpenAI API for text completion.
 - Secure handling of sensitive medical data.
 - Multi-user support with authentication.
-- Real-time performance and availability monitoring.
+- proposals for solutions and generation of some advice to take in this case
 
 ## Technologies Used
 
 - Programming Language: Python 3.8+
 - Web Framework: FastAPI
 - Text Generation API: OpenAI API
-- Database: PostgreSQL (or your choice)
+- Database: MongoDB
 - Version Control System: Git
 
 ## Configuration and Installation
