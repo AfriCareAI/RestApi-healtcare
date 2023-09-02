@@ -27,7 +27,7 @@ AfriCare is an innovative project in the medical field that harnesses generative
 1. **Clone the Git repository:**
 
    ```bash
-   git clone https://github.com/your-username/afri-care-backend.git
+   git clone [https://github.com/your-username/afri-care-backend.git](https://github.com/AfriCareAI/RestApi-healtcare.git)
    cd afri-care-backend ```
 
 2. **Create a virtual environment and activate it:**
